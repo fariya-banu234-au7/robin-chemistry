@@ -1,0 +1,15 @@
+Steps-
+
+1. you mae your project visible to the GIT software - adding GIT to your project
+
+2.Once you do this your project will become a git repository - git will workcd MY_FOLDERS
+
+3.How do you do this - "git init" run this command iniside your MY_FOLDERS - adds GIT software to your project
+
+4.How do you see the status of the repository - "git status"
+
+5.How do you wrap/ or make your files visible to git - "git add" 
+
+to add all untracked files - "git add ."
+
+6.Snapshot in GIT means - Commit - "git commit -m" Commit message here
